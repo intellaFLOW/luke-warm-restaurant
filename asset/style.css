@@ -4,14 +4,8 @@
 .btn-lg {
 	background-color: red;
 }
-.glyphicon glyphicon-home {
-	    position: relative;
-    top: 1px;
-    display: inline-block;
-    font-family: 'Glyphicons Halflings';
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1;
-    text-align: center;
+
+.glyphicon {
+	font-size: 30px;
 }
 .btn-default {}
